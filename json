@@ -1892,17 +1892,6 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country": "Total:",
-		"TotalCases": "286,660",
-		"NewCases": "11,113",
-		"TotalDeaths": "11,888",
-		"NewDeaths": 508,
-		"TotalRecovered": "93,586",
-		"ActiveCases": "181,186",
-		"Serious": "8,115",
-		"Tot Cases/1M pop": "36.8"
-	},
-	{
 		"Country": "Trinidad and Tobago",
 		"TotalCases": "9",
 		"NewCases": "0",
