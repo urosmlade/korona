@@ -1,6 +1,6 @@
 [
 	{
-		"Country,Other": "Afghanistan",
+		"Country": "Afghanistan",
 		"TotalCases": "24",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -11,7 +11,7 @@
 		"Tot Cases/1M pop": "0.6"
 	},
 	{
-		"Country,Other": "Albania",
+		"Country": "Albania",
 		"TotalCases": "70",
 		"NewCases": "0",
 		"TotalDeaths": "2",
@@ -22,7 +22,7 @@
 		"Tot Cases/1M pop": "24"
 	},
 	{
-		"Country,Other": "Algeria",
+		"Country": "Algeria",
 		"TotalCases": "94",
 		"NewCases": "0",
 		"TotalDeaths": "11",
@@ -33,7 +33,7 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country,Other": "Andorra",
+		"Country": "Andorra",
 		"TotalCases": "75",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -44,7 +44,7 @@
 		"Tot Cases/1M pop": "971"
 	},
 	{
-		"Country,Other": "Angola",
+		"Country": "Angola",
 		"TotalCases": "2",
 		"NewCases": "+1",
 		"TotalDeaths": "0",
@@ -55,7 +55,7 @@
 		"Tot Cases/1M pop": "0.06"
 	},
 	{
-		"Country,Other": "Antigua and Barbuda",
+		"Country": "Antigua and Barbuda",
 		"TotalCases": "1",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -66,7 +66,7 @@
 		"Tot Cases/1M pop": "10"
 	},
 	{
-		"Country,Other": "Argentina",
+		"Country": "Argentina",
 		"TotalCases": "158",
 		"NewCases": "0",
 		"TotalDeaths": "3",
@@ -77,7 +77,7 @@
 		"Tot Cases/1M pop": "3"
 	},
 	{
-		"Country,Other": "Armenia",
+		"Country": "Armenia",
 		"TotalCases": "160",
 		"NewCases": "+24",
 		"TotalDeaths": "0",
@@ -88,7 +88,7 @@
 		"Tot Cases/1M pop": "54"
 	},
 	{
-		"Country,Other": "Aruba",
+		"Country": "Aruba",
 		"TotalCases": "5",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -99,7 +99,7 @@
 		"Tot Cases/1M pop": "47"
 	},
 	{
-		"Country,Other": "Australia",
+		"Country": "Australia",
 		"TotalCases": "1,068",
 		"NewCases": "+140",
 		"TotalDeaths": "7",
@@ -110,7 +110,7 @@
 		"Tot Cases/1M pop": "42"
 	},
 	{
-		"Country,Other": "Austria",
+		"Country": "Austria",
 		"TotalCases": "2,690",
 		"NewCases": "+41",
 		"TotalDeaths": "7",
@@ -121,7 +121,7 @@
 		"Tot Cases/1M pop": "299"
 	},
 	{
-		"Country,Other": "Azerbaijan",
+		"Country": "Azerbaijan",
 		"TotalCases": "44",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -132,7 +132,7 @@
 		"Tot Cases/1M pop": "4"
 	},
 	{
-		"Country,Other": "Bahamas",
+		"Country": "Bahamas",
 		"TotalCases": "4",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -143,7 +143,7 @@
 		"Tot Cases/1M pop": "10"
 	},
 	{
-		"Country,Other": "Bahrain",
+		"Country": "Bahrain",
 		"TotalCases": "298",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -154,7 +154,7 @@
 		"Tot Cases/1M pop": "175"
 	},
 	{
-		"Country,Other": "Bangladesh",
+		"Country": "Bangladesh",
 		"TotalCases": "24",
 		"NewCases": "+4",
 		"TotalDeaths": "2",
@@ -165,7 +165,7 @@
 		"Tot Cases/1M pop": "0.1"
 	},
 	{
-		"Country,Other": "Barbados",
+		"Country": "Barbados",
 		"TotalCases": "6",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -176,7 +176,7 @@
 		"Tot Cases/1M pop": "21"
 	},
 	{
-		"Country,Other": "Belarus",
+		"Country": "Belarus",
 		"TotalCases": "69",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -187,7 +187,7 @@
 		"Tot Cases/1M pop": "7"
 	},
 	{
-		"Country,Other": "Belgium",
+		"Country": "Belgium",
 		"TotalCases": "2,257",
 		"NewCases": "0",
 		"TotalDeaths": "37",
@@ -198,7 +198,7 @@
 		"Tot Cases/1M pop": "195"
 	},
 	{
-		"Country,Other": "Benin",
+		"Country": "Benin",
 		"TotalCases": "2",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -209,7 +209,7 @@
 		"Tot Cases/1M pop": "0.2"
 	},
 	{
-		"Country,Other": "Bermuda",
+		"Country": "Bermuda",
 		"TotalCases": "2",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -220,7 +220,7 @@
 		"Tot Cases/1M pop": "32"
 	},
 	{
-		"Country,Other": "Bhutan",
+		"Country": "Bhutan",
 		"TotalCases": "2",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -231,7 +231,7 @@
 		"Tot Cases/1M pop": "3"
 	},
 	{
-		"Country,Other": "Bolivia",
+		"Country": "Bolivia",
 		"TotalCases": "19",
 		"NewCases": "+3",
 		"TotalDeaths": "0",
@@ -242,7 +242,7 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country,Other": "Bosnia and Herzegovina",
+		"Country": "Bosnia and Herzegovina",
 		"TotalCases": "90",
 		"NewCases": "+1",
 		"TotalDeaths": "0",
@@ -253,7 +253,7 @@
 		"Tot Cases/1M pop": "27"
 	},
 	{
-		"Country,Other": "Brazil",
+		"Country": "Brazil",
 		"TotalCases": "977",
 		"NewCases": "+7",
 		"TotalDeaths": "11",
@@ -264,7 +264,7 @@
 		"Tot Cases/1M pop": "5"
 	},
 	{
-		"Country,Other": "Brunei",
+		"Country": "Brunei",
 		"TotalCases": "83",
 		"NewCases": "+5",
 		"TotalDeaths": "0",
@@ -275,7 +275,7 @@
 		"Tot Cases/1M pop": "190"
 	},
 	{
-		"Country,Other": "Bulgaria",
+		"Country": "Bulgaria",
 		"TotalCases": "142",
 		"NewCases": "+15",
 		"TotalDeaths": "3",
@@ -286,7 +286,7 @@
 		"Tot Cases/1M pop": "20"
 	},
 	{
-		"Country,Other": "Burkina Faso",
+		"Country": "Burkina Faso",
 		"TotalCases": "40",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -297,7 +297,7 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country,Other": "CAR",
+		"Country": "CAR",
 		"TotalCases": "3",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -308,7 +308,7 @@
 		"Tot Cases/1M pop": "0.6"
 	},
 	{
-		"Country,Other": "Cabo Verde",
+		"Country": "Cabo Verde",
 		"TotalCases": "1",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -319,7 +319,7 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country,Other": "Cambodia",
+		"Country": "Cambodia",
 		"TotalCases": "51",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -330,7 +330,7 @@
 		"Tot Cases/1M pop": "3"
 	},
 	{
-		"Country,Other": "Cameroon",
+		"Country": "Cameroon",
 		"TotalCases": "27",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -341,7 +341,7 @@
 		"Tot Cases/1M pop": "1"
 	},
 	{
-		"Country,Other": "Canada",
+		"Country": "Canada",
 		"TotalCases": "1,087",
 		"NewCases": "0",
 		"TotalDeaths": "12",
@@ -352,7 +352,7 @@
 		"Tot Cases/1M pop": "29"
 	},
 	{
-		"Country,Other": "Cayman Islands",
+		"Country": "Cayman Islands",
 		"TotalCases": "3",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -363,7 +363,7 @@
 		"Tot Cases/1M pop": "46"
 	},
 	{
-		"Country,Other": "Chad",
+		"Country": "Chad",
 		"TotalCases": "1",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -374,7 +374,7 @@
 		"Tot Cases/1M pop": "0.06"
 	},
 	{
-		"Country,Other": "Channel Islands",
+		"Country": "Channel Islands",
 		"TotalCases": "14",
 		"NewCases": "+2",
 		"TotalDeaths": "0",
@@ -385,7 +385,7 @@
 		"Tot Cases/1M pop": "81"
 	},
 	{
-		"Country,Other": "Chile",
+		"Country": "Chile",
 		"TotalCases": "434",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -396,7 +396,7 @@
 		"Tot Cases/1M pop": "23"
 	},
 	{
-		"Country,Other": "China",
+		"Country": "China",
 		"TotalCases": "81,008",
 		"NewCases": "+41",
 		"TotalDeaths": "3,255",
@@ -407,7 +407,7 @@
 		"Tot Cases/1M pop": "56"
 	},
 	{
-		"Country,Other": "Colombia",
+		"Country": "Colombia",
 		"TotalCases": "158",
 		"NewCases": "+13",
 		"TotalDeaths": "0",
@@ -418,7 +418,7 @@
 		"Tot Cases/1M pop": "3"
 	},
 	{
-		"Country,Other": "Congo",
+		"Country": "Congo",
 		"TotalCases": "3",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -429,7 +429,7 @@
 		"Tot Cases/1M pop": "0.5"
 	},
 	{
-		"Country,Other": "Costa Rica",
+		"Country": "Costa Rica",
 		"TotalCases": "113",
 		"NewCases": "0",
 		"TotalDeaths": "2",
@@ -440,7 +440,7 @@
 		"Tot Cases/1M pop": "22"
 	},
 	{
-		"Country,Other": "Croatia",
+		"Country": "Croatia",
 		"TotalCases": "168",
 		"NewCases": "+38",
 		"TotalDeaths": "1",
@@ -451,7 +451,7 @@
 		"Tot Cases/1M pop": "41"
 	},
 	{
-		"Country,Other": "Cuba",
+		"Country": "Cuba",
 		"TotalCases": "21",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -462,7 +462,7 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country,Other": "Curaçao",
+		"Country": "Curaçao",
 		"TotalCases": "3",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -473,7 +473,7 @@
 		"Tot Cases/1M pop": "18"
 	},
 	{
-		"Country,Other": "Cyprus",
+		"Country": "Cyprus",
 		"TotalCases": "75",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -484,7 +484,7 @@
 		"Tot Cases/1M pop": "62"
 	},
 	{
-		"Country,Other": "Czechia",
+		"Country": "Czechia",
 		"TotalCases": "904",
 		"NewCases": "+71",
 		"TotalDeaths": "0",
@@ -495,7 +495,7 @@
 		"Tot Cases/1M pop": "84"
 	},
 	{
-		"Country,Other": "DRC",
+		"Country": "DRC",
 		"TotalCases": "23",
 		"NewCases": "+5",
 		"TotalDeaths": "1",
@@ -506,7 +506,7 @@
 		"Tot Cases/1M pop": "0.3"
 	},
 	{
-		"Country,Other": "Denmark",
+		"Country": "Denmark",
 		"TotalCases": "1,255",
 		"NewCases": "0",
 		"TotalDeaths": "9",
@@ -517,7 +517,7 @@
 		"Tot Cases/1M pop": "217"
 	},
 	{
-		"Country,Other": "Diamond Princess",
+		"Country": "Diamond Princess",
 		"TotalCases": "712",
 		"NewCases": "0",
 		"TotalDeaths": "8",
@@ -528,7 +528,7 @@
 		"Tot Cases/1M pop": "0"
 	},
 	{
-		"Country,Other": "Djibouti",
+		"Country": "Djibouti",
 		"TotalCases": "1",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -539,7 +539,7 @@
 		"Tot Cases/1M pop": "1"
 	},
 	{
-		"Country,Other": "Dominican Republic",
+		"Country": "Dominican Republic",
 		"TotalCases": "72",
 		"NewCases": "0",
 		"TotalDeaths": "2",
@@ -550,7 +550,7 @@
 		"Tot Cases/1M pop": "7"
 	},
 	{
-		"Country,Other": "Ecuador",
+		"Country": "Ecuador",
 		"TotalCases": "426",
 		"NewCases": "0",
 		"TotalDeaths": "7",
@@ -561,7 +561,7 @@
 		"Tot Cases/1M pop": "24"
 	},
 	{
-		"Country,Other": "Egypt",
+		"Country": "Egypt",
 		"TotalCases": "285",
 		"NewCases": "0",
 		"TotalDeaths": "8",
@@ -572,7 +572,7 @@
 		"Tot Cases/1M pop": "3"
 	},
 	{
-		"Country,Other": "El Salvador",
+		"Country": "El Salvador",
 		"TotalCases": "3",
 		"NewCases": "+2",
 		"TotalDeaths": "0",
@@ -583,7 +583,7 @@
 		"Tot Cases/1M pop": "0.5"
 	},
 	{
-		"Country,Other": "Equatorial Guinea",
+		"Country": "Equatorial Guinea",
 		"TotalCases": "6",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -594,7 +594,7 @@
 		"Tot Cases/1M pop": "4"
 	},
 	{
-		"Country,Other": "Estonia",
+		"Country": "Estonia",
 		"TotalCases": "283",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -605,7 +605,7 @@
 		"Tot Cases/1M pop": "213"
 	},
 	{
-		"Country,Other": "Eswatini",
+		"Country": "Eswatini",
 		"TotalCases": "1",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -616,7 +616,7 @@
 		"Tot Cases/1M pop": "0.9"
 	},
 	{
-		"Country,Other": "Ethiopia",
+		"Country": "Ethiopia",
 		"TotalCases": "9",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -627,7 +627,7 @@
 		"Tot Cases/1M pop": "0.08"
 	},
 	{
-		"Country,Other": "Faeroe Islands",
+		"Country": "Faeroe Islands",
 		"TotalCases": "92",
 		"NewCases": "+12",
 		"TotalDeaths": "0",
@@ -638,7 +638,7 @@
 		"Tot Cases/1M pop": "1,883"
 	},
 	{
-		"Country,Other": "Fiji",
+		"Country": "Fiji",
 		"TotalCases": "2",
 		"NewCases": "+1",
 		"TotalDeaths": "0",
@@ -649,7 +649,7 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country,Other": "Finland",
+		"Country": "Finland",
 		"TotalCases": "503",
 		"NewCases": "+53",
 		"TotalDeaths": "0",
@@ -660,7 +660,7 @@
 		"Tot Cases/1M pop": "91"
 	},
 	{
-		"Country,Other": "France",
+		"Country": "France",
 		"TotalCases": "12,612",
 		"NewCases": "0",
 		"TotalDeaths": "450",
@@ -671,7 +671,7 @@
 		"Tot Cases/1M pop": "193"
 	},
 	{
-		"Country,Other": "French Guiana",
+		"Country": "French Guiana",
 		"TotalCases": "15",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -682,7 +682,7 @@
 		"Tot Cases/1M pop": "50"
 	},
 	{
-		"Country,Other": "French Polynesia",
+		"Country": "French Polynesia",
 		"TotalCases": "15",
 		"NewCases": "+4",
 		"TotalDeaths": "0",
@@ -693,7 +693,7 @@
 		"Tot Cases/1M pop": "53"
 	},
 	{
-		"Country,Other": "Gabon",
+		"Country": "Gabon",
 		"TotalCases": "4",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -704,7 +704,7 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country,Other": "Gambia",
+		"Country": "Gambia",
 		"TotalCases": "1",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -715,7 +715,7 @@
 		"Tot Cases/1M pop": "0.4"
 	},
 	{
-		"Country,Other": "Georgia",
+		"Country": "Georgia",
 		"TotalCases": "47",
 		"NewCases": "+3",
 		"TotalDeaths": "0",
@@ -726,7 +726,7 @@
 		"Tot Cases/1M pop": "12"
 	},
 	{
-		"Country,Other": "Germany",
+		"Country": "Germany",
 		"TotalCases": "19,848",
 		"NewCases": "0",
 		"TotalDeaths": "68",
@@ -737,7 +737,7 @@
 		"Tot Cases/1M pop": "237"
 	},
 	{
-		"Country,Other": "Ghana",
+		"Country": "Ghana",
 		"TotalCases": "16",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -748,7 +748,7 @@
 		"Tot Cases/1M pop": "0.5"
 	},
 	{
-		"Country,Other": "Gibraltar",
+		"Country": "Gibraltar",
 		"TotalCases": "10",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -759,7 +759,7 @@
 		"Tot Cases/1M pop": "297"
 	},
 	{
-		"Country,Other": "Greece",
+		"Country": "Greece",
 		"TotalCases": "495",
 		"NewCases": "0",
 		"TotalDeaths": "10",
@@ -770,7 +770,7 @@
 		"Tot Cases/1M pop": "47"
 	},
 	{
-		"Country,Other": "Greenland",
+		"Country": "Greenland",
 		"TotalCases": "2",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -781,7 +781,7 @@
 		"Tot Cases/1M pop": "35"
 	},
 	{
-		"Country,Other": "Guadeloupe",
+		"Country": "Guadeloupe",
 		"TotalCases": "51",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -792,7 +792,7 @@
 		"Tot Cases/1M pop": "127"
 	},
 	{
-		"Country,Other": "Guam",
+		"Country": "Guam",
 		"TotalCases": "14",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -803,7 +803,7 @@
 		"Tot Cases/1M pop": "83"
 	},
 	{
-		"Country,Other": "Guatemala",
+		"Country": "Guatemala",
 		"TotalCases": "12",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -814,7 +814,7 @@
 		"Tot Cases/1M pop": "0.7"
 	},
 	{
-		"Country,Other": "Guinea",
+		"Country": "Guinea",
 		"TotalCases": "2",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -825,7 +825,7 @@
 		"Tot Cases/1M pop": "0.2"
 	},
 	{
-		"Country,Other": "Guyana",
+		"Country": "Guyana",
 		"TotalCases": "15",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -836,7 +836,7 @@
 		"Tot Cases/1M pop": "19"
 	},
 	{
-		"Country,Other": "Haiti",
+		"Country": "Haiti",
 		"TotalCases": "2",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -847,7 +847,7 @@
 		"Tot Cases/1M pop": "0.2"
 	},
 	{
-		"Country,Other": "Honduras",
+		"Country": "Honduras",
 		"TotalCases": "24",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -858,7 +858,7 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country,Other": "Hong Kong",
+		"Country": "Hong Kong",
 		"TotalCases": "273",
 		"NewCases": "+17",
 		"TotalDeaths": "4",
@@ -869,7 +869,7 @@
 		"Tot Cases/1M pop": "36"
 	},
 	{
-		"Country,Other": "Hungary",
+		"Country": "Hungary",
 		"TotalCases": "103",
 		"NewCases": "+18",
 		"TotalDeaths": "4",
@@ -880,7 +880,7 @@
 		"Tot Cases/1M pop": "11"
 	},
 	{
-		"Country,Other": "Iceland",
+		"Country": "Iceland",
 		"TotalCases": "409",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -891,7 +891,7 @@
 		"Tot Cases/1M pop": "1,199"
 	},
 	{
-		"Country,Other": "India",
+		"Country": "India",
 		"TotalCases": "275",
 		"NewCases": "+26",
 		"TotalDeaths": "5",
@@ -902,7 +902,7 @@
 		"Tot Cases/1M pop": "0.2"
 	},
 	{
-		"Country,Other": "Indonesia",
+		"Country": "Indonesia",
 		"TotalCases": "450",
 		"NewCases": "+81",
 		"TotalDeaths": "38",
@@ -913,7 +913,7 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country,Other": "Iran",
+		"Country": "Iran",
 		"TotalCases": "19,644",
 		"NewCases": "0",
 		"TotalDeaths": "1,433",
@@ -924,7 +924,7 @@
 		"Tot Cases/1M pop": "234"
 	},
 	{
-		"Country,Other": "Iraq",
+		"Country": "Iraq",
 		"TotalCases": "208",
 		"NewCases": "0",
 		"TotalDeaths": "17",
@@ -935,7 +935,7 @@
 		"Tot Cases/1M pop": "5"
 	},
 	{
-		"Country,Other": "Ireland",
+		"Country": "Ireland",
 		"TotalCases": "683",
 		"NewCases": "0",
 		"TotalDeaths": "3",
@@ -946,7 +946,7 @@
 		"Tot Cases/1M pop": "138"
 	},
 	{
-		"Country,Other": "Isle of Man",
+		"Country": "Isle of Man",
 		"TotalCases": "2",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -957,7 +957,7 @@
 		"Tot Cases/1M pop": "24"
 	},
 	{
-		"Country,Other": "Israel",
+		"Country": "Israel",
 		"TotalCases": "705",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -968,7 +968,7 @@
 		"Tot Cases/1M pop": "81"
 	},
 	{
-		"Country,Other": "Italy",
+		"Country": "Italy",
 		"TotalCases": "47,021",
 		"NewCases": "0",
 		"TotalDeaths": "4,032",
@@ -979,7 +979,7 @@
 		"Tot Cases/1M pop": "778"
 	},
 	{
-		"Country,Other": "Ivory Coast",
+		"Country": "Ivory Coast",
 		"TotalCases": "14",
 		"NewCases": "+5",
 		"TotalDeaths": "0",
@@ -990,7 +990,7 @@
 		"Tot Cases/1M pop": "0.5"
 	},
 	{
-		"Country,Other": "Jamaica",
+		"Country": "Jamaica",
 		"TotalCases": "19",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -1001,7 +1001,7 @@
 		"Tot Cases/1M pop": "6"
 	},
 	{
-		"Country,Other": "Japan",
+		"Country": "Japan",
 		"TotalCases": "1,007",
 		"NewCases": "0",
 		"TotalDeaths": "35",
@@ -1012,7 +1012,7 @@
 		"Tot Cases/1M pop": "8"
 	},
 	{
-		"Country,Other": "Jordan",
+		"Country": "Jordan",
 		"TotalCases": "85",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1023,7 +1023,7 @@
 		"Tot Cases/1M pop": "8"
 	},
 	{
-		"Country,Other": "Kazakhstan",
+		"Country": "Kazakhstan",
 		"TotalCases": "53",
 		"NewCases": "+1",
 		"TotalDeaths": "0",
@@ -1034,7 +1034,7 @@
 		"Tot Cases/1M pop": "3"
 	},
 	{
-		"Country,Other": "Kenya",
+		"Country": "Kenya",
 		"TotalCases": "7",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1045,7 +1045,7 @@
 		"Tot Cases/1M pop": "0.1"
 	},
 	{
-		"Country,Other": "Kuwait",
+		"Country": "Kuwait",
 		"TotalCases": "176",
 		"NewCases": "+17",
 		"TotalDeaths": "0",
@@ -1056,7 +1056,7 @@
 		"Tot Cases/1M pop": "41"
 	},
 	{
-		"Country,Other": "Kyrgyzstan",
+		"Country": "Kyrgyzstan",
 		"TotalCases": "12",
 		"NewCases": "+6",
 		"TotalDeaths": "0",
@@ -1067,7 +1067,7 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country,Other": "Latvia",
+		"Country": "Latvia",
 		"TotalCases": "124",
 		"NewCases": "+13",
 		"TotalDeaths": "0",
@@ -1078,7 +1078,7 @@
 		"Tot Cases/1M pop": "66"
 	},
 	{
-		"Country,Other": "Lebanon",
+		"Country": "Lebanon",
 		"TotalCases": "177",
 		"NewCases": "0",
 		"TotalDeaths": "4",
@@ -1089,7 +1089,7 @@
 		"Tot Cases/1M pop": "26"
 	},
 	{
-		"Country,Other": "Liberia",
+		"Country": "Liberia",
 		"TotalCases": "3",
 		"NewCases": "+1",
 		"TotalDeaths": "0",
@@ -1100,7 +1100,7 @@
 		"Tot Cases/1M pop": "0.6"
 	},
 	{
-		"Country,Other": "Liechtenstein",
+		"Country": "Liechtenstein",
 		"TotalCases": "37",
 		"NewCases": "+9",
 		"TotalDeaths": "0",
@@ -1111,7 +1111,7 @@
 		"Tot Cases/1M pop": "970"
 	},
 	{
-		"Country,Other": "Lithuania",
+		"Country": "Lithuania",
 		"TotalCases": "69",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -1122,7 +1122,7 @@
 		"Tot Cases/1M pop": "25"
 	},
 	{
-		"Country,Other": "Luxembourg",
+		"Country": "Luxembourg",
 		"TotalCases": "484",
 		"NewCases": "0",
 		"TotalDeaths": "5",
@@ -1133,7 +1133,7 @@
 		"Tot Cases/1M pop": "773"
 	},
 	{
-		"Country,Other": "Macao",
+		"Country": "Macao",
 		"TotalCases": "17",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1144,7 +1144,7 @@
 		"Tot Cases/1M pop": "26"
 	},
 	{
-		"Country,Other": "Madagascar",
+		"Country": "Madagascar",
 		"TotalCases": "3",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1155,7 +1155,7 @@
 		"Tot Cases/1M pop": "0.1"
 	},
 	{
-		"Country,Other": "Malaysia",
+		"Country": "Malaysia",
 		"TotalCases": "1,183",
 		"NewCases": "+153",
 		"TotalDeaths": "4",
@@ -1166,7 +1166,7 @@
 		"Tot Cases/1M pop": "37"
 	},
 	{
-		"Country,Other": "Maldives",
+		"Country": "Maldives",
 		"TotalCases": "13",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1177,7 +1177,7 @@
 		"Tot Cases/1M pop": "24"
 	},
 	{
-		"Country,Other": "Malta",
+		"Country": "Malta",
 		"TotalCases": "64",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1188,7 +1188,7 @@
 		"Tot Cases/1M pop": "145"
 	},
 	{
-		"Country,Other": "Martinique",
+		"Country": "Martinique",
 		"TotalCases": "32",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -1199,7 +1199,7 @@
 		"Tot Cases/1M pop": "85"
 	},
 	{
-		"Country,Other": "Mauritania",
+		"Country": "Mauritania",
 		"TotalCases": "2",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1210,7 +1210,7 @@
 		"Tot Cases/1M pop": "0.4"
 	},
 	{
-		"Country,Other": "Mauritius",
+		"Country": "Mauritius",
 		"TotalCases": "14",
 		"NewCases": "+2",
 		"TotalDeaths": "1",
@@ -1221,7 +1221,7 @@
 		"Tot Cases/1M pop": "11"
 	},
 	{
-		"Country,Other": "Mayotte",
+		"Country": "Mayotte",
 		"TotalCases": "7",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1232,7 +1232,7 @@
 		"Tot Cases/1M pop": "26"
 	},
 	{
-		"Country,Other": "Mexico",
+		"Country": "Mexico",
 		"TotalCases": "203",
 		"NewCases": "+39",
 		"TotalDeaths": "2",
@@ -1243,7 +1243,7 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country,Other": "Moldova",
+		"Country": "Moldova",
 		"TotalCases": "66",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -1254,7 +1254,7 @@
 		"Tot Cases/1M pop": "16"
 	},
 	{
-		"Country,Other": "Monaco",
+		"Country": "Monaco",
 		"TotalCases": "11",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1265,7 +1265,7 @@
 		"Tot Cases/1M pop": "280"
 	},
 	{
-		"Country,Other": "Mongolia",
+		"Country": "Mongolia",
 		"TotalCases": "10",
 		"NewCases": "+4",
 		"TotalDeaths": "0",
@@ -1276,7 +1276,7 @@
 		"Tot Cases/1M pop": "3"
 	},
 	{
-		"Country,Other": "Montenegro",
+		"Country": "Montenegro",
 		"TotalCases": "14",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1287,7 +1287,7 @@
 		"Tot Cases/1M pop": "22"
 	},
 	{
-		"Country,Other": "Montserrat",
+		"Country": "Montserrat",
 		"TotalCases": "1",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1298,7 +1298,7 @@
 		"Tot Cases/1M pop": "200"
 	},
 	{
-		"Country,Other": "Morocco",
+		"Country": "Morocco",
 		"TotalCases": "86",
 		"NewCases": "0",
 		"TotalDeaths": "3",
@@ -1309,7 +1309,7 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country,Other": "Namibia",
+		"Country": "Namibia",
 		"TotalCases": "3",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1320,7 +1320,7 @@
 		"Tot Cases/1M pop": "1"
 	},
 	{
-		"Country,Other": "Nepal",
+		"Country": "Nepal",
 		"TotalCases": "1",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1331,7 +1331,7 @@
 		"Tot Cases/1M pop": "0.03"
 	},
 	{
-		"Country,Other": "Netherlands",
+		"Country": "Netherlands",
 		"TotalCases": "2,994",
 		"NewCases": "0",
 		"TotalDeaths": "106",
@@ -1342,7 +1342,7 @@
 		"Tot Cases/1M pop": "175"
 	},
 	{
-		"Country,Other": "New Caledonia",
+		"Country": "New Caledonia",
 		"TotalCases": "2",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1353,7 +1353,7 @@
 		"Tot Cases/1M pop": "7"
 	},
 	{
-		"Country,Other": "New Zealand",
+		"Country": "New Zealand",
 		"TotalCases": "52",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1364,7 +1364,7 @@
 		"Tot Cases/1M pop": "11"
 	},
 	{
-		"Country,Other": "Nicaragua",
+		"Country": "Nicaragua",
 		"TotalCases": "2",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1375,7 +1375,7 @@
 		"Tot Cases/1M pop": "0.3"
 	},
 	{
-		"Country,Other": "Niger",
+		"Country": "Niger",
 		"TotalCases": "1",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1386,7 +1386,7 @@
 		"Tot Cases/1M pop": "0.04"
 	},
 	{
-		"Country,Other": "Nigeria",
+		"Country": "Nigeria",
 		"TotalCases": "12",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1397,7 +1397,7 @@
 		"Tot Cases/1M pop": "0.06"
 	},
 	{
-		"Country,Other": "North Macedonia",
+		"Country": "North Macedonia",
 		"TotalCases": "76",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1408,7 +1408,7 @@
 		"Tot Cases/1M pop": "36"
 	},
 	{
-		"Country,Other": "Norway",
+		"Country": "Norway",
 		"TotalCases": "1,981",
 		"NewCases": "+22",
 		"TotalDeaths": "7",
@@ -1419,7 +1419,7 @@
 		"Tot Cases/1M pop": "365"
 	},
 	{
-		"Country,Other": "Oman",
+		"Country": "Oman",
 		"TotalCases": "52",
 		"NewCases": "+4",
 		"TotalDeaths": "0",
@@ -1430,7 +1430,7 @@
 		"Tot Cases/1M pop": "10"
 	},
 	{
-		"Country,Other": "Pakistan",
+		"Country": "Pakistan",
 		"TotalCases": "531",
 		"NewCases": "+30",
 		"TotalDeaths": "3",
@@ -1441,7 +1441,7 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country,Other": "Palestine",
+		"Country": "Palestine",
 		"TotalCases": "52",
 		"NewCases": "+4",
 		"TotalDeaths": "0",
@@ -1452,7 +1452,7 @@
 		"Tot Cases/1M pop": "10"
 	},
 	{
-		"Country,Other": "Panama",
+		"Country": "Panama",
 		"TotalCases": "200",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -1463,7 +1463,7 @@
 		"Tot Cases/1M pop": "46"
 	},
 	{
-		"Country,Other": "Papua New Guinea",
+		"Country": "Papua New Guinea",
 		"TotalCases": "1",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1474,7 +1474,7 @@
 		"Tot Cases/1M pop": "0.1"
 	},
 	{
-		"Country,Other": "Paraguay",
+		"Country": "Paraguay",
 		"TotalCases": "18",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1485,7 +1485,7 @@
 		"Tot Cases/1M pop": "3"
 	},
 	{
-		"Country,Other": "Peru",
+		"Country": "Peru",
 		"TotalCases": "263",
 		"NewCases": "0",
 		"TotalDeaths": "4",
@@ -1496,7 +1496,7 @@
 		"Tot Cases/1M pop": "8"
 	},
 	{
-		"Country,Other": "Philippines",
+		"Country": "Philippines",
 		"TotalCases": "307",
 		"NewCases": "+77",
 		"TotalDeaths": "19",
@@ -1507,7 +1507,7 @@
 		"Tot Cases/1M pop": "3"
 	},
 	{
-		"Country,Other": "Poland",
+		"Country": "Poland",
 		"TotalCases": "439",
 		"NewCases": "+14",
 		"TotalDeaths": "5",
@@ -1518,7 +1518,7 @@
 		"Tot Cases/1M pop": "12"
 	},
 	{
-		"Country,Other": "Portugal",
+		"Country": "Portugal",
 		"TotalCases": "1,020",
 		"NewCases": "0",
 		"TotalDeaths": "7",
@@ -1529,7 +1529,7 @@
 		"Tot Cases/1M pop": "100"
 	},
 	{
-		"Country,Other": "Puerto Rico",
+		"Country": "Puerto Rico",
 		"TotalCases": "14",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1540,7 +1540,7 @@
 		"Tot Cases/1M pop": "5"
 	},
 	{
-		"Country,Other": "Qatar",
+		"Country": "Qatar",
 		"TotalCases": "470",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1551,7 +1551,7 @@
 		"Tot Cases/1M pop": "163"
 	},
 	{
-		"Country,Other": "Romania",
+		"Country": "Romania",
 		"TotalCases": "308",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1562,7 +1562,7 @@
 		"Tot Cases/1M pop": "16"
 	},
 	{
-		"Country,Other": "Russia",
+		"Country": "Russia",
 		"TotalCases": "253",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -1573,7 +1573,7 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country,Other": "Rwanda",
+		"Country": "Rwanda",
 		"TotalCases": "17",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1584,7 +1584,7 @@
 		"Tot Cases/1M pop": "1"
 	},
 	{
-		"Country,Other": "Réunion",
+		"Country": "Réunion",
 		"TotalCases": "45",
 		"NewCases": "+7",
 		"TotalDeaths": "0",
@@ -1595,7 +1595,7 @@
 		"Tot Cases/1M pop": "50"
 	},
 	{
-		"Country,Other": "S. Korea",
+		"Country": "S. Korea",
 		"TotalCases": "8,799",
 		"NewCases": "+147",
 		"TotalDeaths": "102",
@@ -1606,7 +1606,7 @@
 		"Tot Cases/1M pop": "172"
 	},
 	{
-		"Country,Other": "Saint Lucia",
+		"Country": "Saint Lucia",
 		"TotalCases": "2",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1617,7 +1617,7 @@
 		"Tot Cases/1M pop": "11"
 	},
 	{
-		"Country,Other": "Saint Martin",
+		"Country": "Saint Martin",
 		"TotalCases": "4",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1628,7 +1628,7 @@
 		"Tot Cases/1M pop": "103"
 	},
 	{
-		"Country,Other": "San Marino",
+		"Country": "San Marino",
 		"TotalCases": "151",
 		"NewCases": "0",
 		"TotalDeaths": "14",
@@ -1639,7 +1639,7 @@
 		"Tot Cases/1M pop": "4,450"
 	},
 	{
-		"Country,Other": "Saudi Arabia",
+		"Country": "Saudi Arabia",
 		"TotalCases": "344",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1650,7 +1650,7 @@
 		"Tot Cases/1M pop": "10"
 	},
 	{
-		"Country,Other": "Senegal",
+		"Country": "Senegal",
 		"TotalCases": "47",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1661,7 +1661,7 @@
 		"Tot Cases/1M pop": "3"
 	},
 	{
-		"Country,Other": "Serbia",
+		"Country": "Serbia",
 		"TotalCases": "149",
 		"NewCases": "+14",
 		"TotalDeaths": "1",
@@ -1672,7 +1672,7 @@
 		"Tot Cases/1M pop": "17"
 	},
 	{
-		"Country,Other": "Seychelles",
+		"Country": "Seychelles",
 		"TotalCases": "7",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1683,7 +1683,7 @@
 		"Tot Cases/1M pop": "71"
 	},
 	{
-		"Country,Other": "Singapore",
+		"Country": "Singapore",
 		"TotalCases": "385",
 		"NewCases": "0",
 		"TotalDeaths": "2",
@@ -1694,7 +1694,7 @@
 		"Tot Cases/1M pop": "66"
 	},
 	{
-		"Country,Other": "Sint Maarten",
+		"Country": "Sint Maarten",
 		"TotalCases": "1",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1705,7 +1705,7 @@
 		"Tot Cases/1M pop": "23"
 	},
 	{
-		"Country,Other": "Slovakia",
+		"Country": "Slovakia",
 		"TotalCases": "137",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1716,7 +1716,7 @@
 		"Tot Cases/1M pop": "25"
 	},
 	{
-		"Country,Other": "Slovenia",
+		"Country": "Slovenia",
 		"TotalCases": "341",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -1727,7 +1727,7 @@
 		"Tot Cases/1M pop": "164"
 	},
 	{
-		"Country,Other": "Somalia",
+		"Country": "Somalia",
 		"TotalCases": "1",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1738,7 +1738,7 @@
 		"Tot Cases/1M pop": "0.06"
 	},
 	{
-		"Country,Other": "South Africa",
+		"Country": "South Africa",
 		"TotalCases": "240",
 		"NewCases": "+38",
 		"TotalDeaths": "0",
@@ -1749,7 +1749,7 @@
 		"Tot Cases/1M pop": "4"
 	},
 	{
-		"Country,Other": "Spain",
+		"Country": "Spain",
 		"TotalCases": "21,571",
 		"NewCases": "0",
 		"TotalDeaths": "1,093",
@@ -1760,7 +1760,7 @@
 		"Tot Cases/1M pop": "461"
 	},
 	{
-		"Country,Other": "Sri Lanka",
+		"Country": "Sri Lanka",
 		"TotalCases": "73",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1771,7 +1771,7 @@
 		"Tot Cases/1M pop": "3"
 	},
 	{
-		"Country,Other": "St. Barth",
+		"Country": "St. Barth",
 		"TotalCases": "3",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1782,7 +1782,7 @@
 		"Tot Cases/1M pop": "304"
 	},
 	{
-		"Country,Other": "St. Vincent Grenadines",
+		"Country": "St. Vincent Grenadines",
 		"TotalCases": "1",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1793,7 +1793,7 @@
 		"Tot Cases/1M pop": "9"
 	},
 	{
-		"Country,Other": "Sudan",
+		"Country": "Sudan",
 		"TotalCases": "2",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -1804,7 +1804,7 @@
 		"Tot Cases/1M pop": "0.05"
 	},
 	{
-		"Country,Other": "Suriname",
+		"Country": "Suriname",
 		"TotalCases": "4",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1815,7 +1815,7 @@
 		"Tot Cases/1M pop": "7"
 	},
 	{
-		"Country,Other": "Sweden",
+		"Country": "Sweden",
 		"TotalCases": "1,639",
 		"NewCases": "0",
 		"TotalDeaths": "16",
@@ -1826,7 +1826,7 @@
 		"Tot Cases/1M pop": "162"
 	},
 	{
-		"Country,Other": "Switzerland",
+		"Country": "Switzerland",
 		"TotalCases": "5,616",
 		"NewCases": "+1",
 		"TotalDeaths": "57",
@@ -1837,7 +1837,7 @@
 		"Tot Cases/1M pop": "649"
 	},
 	{
-		"Country,Other": "Taiwan",
+		"Country": "Taiwan",
 		"TotalCases": "153",
 		"NewCases": "+18",
 		"TotalDeaths": "2",
@@ -1848,7 +1848,7 @@
 		"Tot Cases/1M pop": "6"
 	},
 	{
-		"Country,Other": "Tanzania",
+		"Country": "Tanzania",
 		"TotalCases": "6",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1859,7 +1859,7 @@
 		"Tot Cases/1M pop": "0.1"
 	},
 	{
-		"Country,Other": "Thailand",
+		"Country": "Thailand",
 		"TotalCases": "411",
 		"NewCases": "+89",
 		"TotalDeaths": "1",
@@ -1870,7 +1870,7 @@
 		"Tot Cases/1M pop": "6"
 	},
 	{
-		"Country,Other": "Timor-Leste",
+		"Country": "Timor-Leste",
 		"TotalCases": "1",
 		"NewCases": "+1",
 		"TotalDeaths": "0",
@@ -1881,7 +1881,7 @@
 		"Tot Cases/1M pop": "0.8"
 	},
 	{
-		"Country,Other": "Togo",
+		"Country": "Togo",
 		"TotalCases": "9",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1892,7 +1892,7 @@
 		"Tot Cases/1M pop": "1"
 	},
 	{
-		"Country,Other": "Trinidad and Tobago",
+		"Country": "Trinidad and Tobago",
 		"TotalCases": "9",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1903,7 +1903,7 @@
 		"Tot Cases/1M pop": "6"
 	},
 	{
-		"Country,Other": "Tunisia",
+		"Country": "Tunisia",
 		"TotalCases": "54",
 		"NewCases": "0",
 		"TotalDeaths": "1",
@@ -1914,7 +1914,7 @@
 		"Tot Cases/1M pop": "5"
 	},
 	{
-		"Country,Other": "Turkey",
+		"Country": "Turkey",
 		"TotalCases": "670",
 		"NewCases": "0",
 		"TotalDeaths": "9",
@@ -1925,7 +1925,7 @@
 		"Tot Cases/1M pop": "8"
 	},
 	{
-		"Country,Other": "U.S. Virgin Islands",
+		"Country": "U.S. Virgin Islands",
 		"TotalCases": "6",
 		"NewCases": "+3",
 		"TotalDeaths": "0",
@@ -1936,7 +1936,7 @@
 		"Tot Cases/1M pop": "57"
 	},
 	{
-		"Country,Other": "UAE",
+		"Country": "UAE",
 		"TotalCases": "140",
 		"NewCases": "0",
 		"TotalDeaths": "2",
@@ -1947,7 +1947,7 @@
 		"Tot Cases/1M pop": "14"
 	},
 	{
-		"Country,Other": "UK",
+		"Country": "UK",
 		"TotalCases": "3,983",
 		"NewCases": "0",
 		"TotalDeaths": "177",
@@ -1958,7 +1958,7 @@
 		"Tot Cases/1M pop": "59"
 	},
 	{
-		"Country,Other": "USA",
+		"Country": "USA",
 		"TotalCases": "19,774",
 		"NewCases": "+391",
 		"TotalDeaths": "275",
@@ -1969,7 +1969,7 @@
 		"Tot Cases/1M pop": "60"
 	},
 	{
-		"Country,Other": "Ukraine",
+		"Country": "Ukraine",
 		"TotalCases": "41",
 		"NewCases": "0",
 		"TotalDeaths": "3",
@@ -1980,7 +1980,7 @@
 		"Tot Cases/1M pop": "0.9"
 	},
 	{
-		"Country,Other": "Uruguay",
+		"Country": "Uruguay",
 		"TotalCases": "110",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -1991,7 +1991,7 @@
 		"Tot Cases/1M pop": "32"
 	},
 	{
-		"Country,Other": "Uzbekistan",
+		"Country": "Uzbekistan",
 		"TotalCases": "37",
 		"NewCases": "+4",
 		"TotalDeaths": "0",
@@ -2002,7 +2002,7 @@
 		"Tot Cases/1M pop": "1"
 	},
 	{
-		"Country,Other": "Vatican City",
+		"Country": "Vatican City",
 		"TotalCases": "1",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -2013,7 +2013,7 @@
 		"Tot Cases/1M pop": "1,248"
 	},
 	{
-		"Country,Other": "Venezuela",
+		"Country": "Venezuela",
 		"TotalCases": "65",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -2024,7 +2024,7 @@
 		"Tot Cases/1M pop": "2"
 	},
 	{
-		"Country,Other": "Vietnam",
+		"Country": "Vietnam",
 		"TotalCases": "92",
 		"NewCases": "+1",
 		"TotalDeaths": "0",
@@ -2035,7 +2035,7 @@
 		"Tot Cases/1M pop": "0.9"
 	},
 	{
-		"Country,Other": "Zambia",
+		"Country": "Zambia",
 		"TotalCases": "2",
 		"NewCases": "0",
 		"TotalDeaths": "0",
@@ -2046,7 +2046,7 @@
 		"Tot Cases/1M pop": "0.1"
 	},
 	{
-		"Country,Other": "Zimbabwe",
+		"Country": "Zimbabwe",
 		"TotalCases": "1",
 		"NewCases": "0",
 		"TotalDeaths": "0",
