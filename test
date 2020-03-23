@@ -452,14 +452,14 @@
  },
  {
    "Country": "India",
-   "TotalCases": "476",
-   "NewCases": "+80",
-   "TotalDeaths": "9",
-   "NewDeaths": "+2",
+   "TotalCases": "499",
+   "NewCases": "+103",
+   "TotalDeaths": "10",
+   "NewDeaths": "+3",
    "TotalRecovered": "34",
-   "ActiveCases": "433",
+   "ActiveCases": "455",
    "Serious": "0",
-   "Tot Cases/1M pop": "0.3"
+   "Tot Cases/1M pop": "0.4"
  },
  {
    "Country": "Philippines",
@@ -2157,12 +2157,12 @@
  },
  {
    "Country": "Total:",
-   "TotalCases": "372,611",
-   "NewCases": "35,181",
-   "TotalDeaths": "16,313",
-   "NewDeaths": "1,675",
+   "TotalCases": "372,634",
+   "NewCases": "35,204",
+   "TotalDeaths": "16,314",
+   "NewDeaths": "1,676",
    "TotalRecovered": "101,373",
-   "ActiveCases": "254,925",
+   "ActiveCases": "254,947",
    "Serious": "12,192",
    "Tot Cases/1M pop": "47.8"
  }
