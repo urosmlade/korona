@@ -78,14 +78,14 @@
 	},
 	{
 		"Country": "Armenia",
-		"TotalCases": "194",
-		"NewCases": "0",
+		"TotalCases": "235",
+		"NewCases": "+41",
 		"TotalDeaths": "0",
 		"NewDeaths": "0",
 		"TotalRecovered": "2",
-		"ActiveCases": "192",
+		"ActiveCases": "233",
 		"Serious": "6",
-		"Tot Cases/1M pop": "65"
+		"Tot Cases/1M pop": "79"
 	},
 	{
 		"Country": "Aruba",
@@ -267,10 +267,10 @@
 		"Country": "Brazil",
 		"TotalCases": "1,696",
 		"NewCases": "+150",
-		"TotalDeaths": "25",
-		"NewDeaths": "0",
+		"TotalDeaths": "34",
+		"NewDeaths": "+9",
 		"TotalRecovered": "2",
-		"ActiveCases": "1,669",
+		"ActiveCases": "1,660",
 		"Serious": "18",
 		"Tot Cases/1M pop": "8"
 	},
@@ -1970,12 +1970,12 @@
 	},
 	{
 		"Country": "Total:",
-		"TotalCases": "373,885",
-		"NewCases": "36,455",
-		"TotalDeaths": "16,328",
-		"NewDeaths": "1,690",
+		"TotalCases": "374,435",
+		"NewCases": "37,005",
+		"TotalDeaths": "16,349",
+		"NewDeaths": "1,711",
 		"TotalRecovered": "101,520",
-		"ActiveCases": "256,037",
+		"ActiveCases": "256,566",
 		"Serious": "12,211",
 		"Tot Cases/1M pop": "48.0"
 	},
@@ -2003,14 +2003,14 @@
 	},
 	{
 		"Country": "Turkey",
-		"TotalCases": "1,236",
-		"NewCases": "0",
-		"TotalDeaths": "30",
-		"NewDeaths": "0",
+		"TotalCases": "1,529",
+		"NewCases": "+293",
+		"TotalDeaths": "37",
+		"NewDeaths": "+7",
 		"TotalRecovered": "0",
-		"ActiveCases": "1,206",
+		"ActiveCases": "1,492",
 		"Serious": "0",
-		"Tot Cases/1M pop": "15"
+		"Tot Cases/1M pop": "18"
 	},
 	{
 		"Country": "Turks and Caicos",
@@ -2058,14 +2058,14 @@
 	},
 	{
 		"Country": "USA",
-		"TotalCases": "42,163",
-		"NewCases": "+8,617",
-		"TotalDeaths": "512",
-		"NewDeaths": "+93",
+		"TotalCases": "42,379",
+		"NewCases": "+8,833",
+		"TotalDeaths": "517",
+		"NewDeaths": "+98",
 		"TotalRecovered": "295",
-		"ActiveCases": "41,356",
+		"ActiveCases": "41,567",
 		"Serious": "1,040",
-		"Tot Cases/1M pop": "127"
+		"Tot Cases/1M pop": "128"
 	},
 	{
 		"Country": "Uganda",
