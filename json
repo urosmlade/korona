@@ -254,23 +254,23 @@
 	},
 	{
 		"Country": "Bosnia and Herzegovina",
-		"TotalCases": "131",
-		"NewCases": "+5",
+		"TotalCases": "132",
+		"NewCases": "+6",
 		"TotalDeaths": "1",
 		"NewDeaths": "0",
 		"TotalRecovered": "2",
-		"ActiveCases": "128",
+		"ActiveCases": "129",
 		"Serious": "1",
 		"Tot Cases/1M pop": "40"
 	},
 	{
 		"Country": "Brazil",
-		"TotalCases": "1,629",
-		"NewCases": "+83",
+		"TotalCases": "1,696",
+		"NewCases": "+150",
 		"TotalDeaths": "25",
 		"NewDeaths": "0",
 		"TotalRecovered": "2",
-		"ActiveCases": "1,602",
+		"ActiveCases": "1,669",
 		"Serious": "18",
 		"Tot Cases/1M pop": "8"
 	},
@@ -430,14 +430,14 @@
 	},
 	{
 		"Country": "Congo",
-		"TotalCases": "3",
-		"NewCases": "0",
+		"TotalCases": "4",
+		"NewCases": "+1",
 		"TotalDeaths": "0",
 		"NewDeaths": "0",
 		"TotalRecovered": "0",
-		"ActiveCases": "3",
+		"ActiveCases": "4",
 		"Serious": "0",
-		"Tot Cases/1M pop": "0.5"
+		"Tot Cases/1M pop": "0.7"
 	},
 	{
 		"Country": "Costa Rica",
@@ -500,8 +500,8 @@
 		"NewCases": "+116",
 		"TotalDeaths": "1",
 		"NewDeaths": "0",
-		"TotalRecovered": "6",
-		"ActiveCases": "1,229",
+		"TotalRecovered": "7",
+		"ActiveCases": "1,228",
 		"Serious": "19",
 		"Tot Cases/1M pop": "115"
 	},
@@ -584,14 +584,14 @@
 	},
 	{
 		"Country": "Egypt",
-		"TotalCases": "327",
-		"NewCases": "0",
-		"TotalDeaths": "14",
-		"NewDeaths": "0",
-		"TotalRecovered": "56",
-		"ActiveCases": "257",
+		"TotalCases": "366",
+		"NewCases": "+39",
+		"TotalDeaths": "19",
+		"NewDeaths": "+5",
+		"TotalRecovered": "68",
+		"ActiveCases": "279",
 		"Serious": "0",
-		"Tot Cases/1M pop": "3"
+		"Tot Cases/1M pop": "4"
 	},
 	{
 		"Country": "El Salvador",
@@ -1970,14 +1970,14 @@
 	},
 	{
 		"Country": "Total:",
-		"TotalCases": "373,550",
-		"NewCases": "36,120",
-		"TotalDeaths": "16,319",
-		"NewDeaths": "1,681",
-		"TotalRecovered": "101,399",
-		"ActiveCases": "255,832",
+		"TotalCases": "373,885",
+		"NewCases": "36,455",
+		"TotalDeaths": "16,328",
+		"NewDeaths": "1,690",
+		"TotalRecovered": "101,520",
+		"ActiveCases": "256,037",
 		"Serious": "12,211",
-		"Tot Cases/1M pop": "47.9"
+		"Tot Cases/1M pop": "48.0"
 	},
 	{
 		"Country": "Trinidad and Tobago",
@@ -2058,12 +2058,12 @@
 	},
 	{
 		"Country": "USA",
-		"TotalCases": "41,936",
-		"NewCases": "+8,390",
-		"TotalDeaths": "508",
-		"NewDeaths": "+89",
-		"TotalRecovered": "187",
-		"ActiveCases": "41,241",
+		"TotalCases": "42,163",
+		"NewCases": "+8,617",
+		"TotalDeaths": "512",
+		"NewDeaths": "+93",
+		"TotalRecovered": "295",
+		"ActiveCases": "41,356",
 		"Serious": "1,040",
 		"Tot Cases/1M pop": "127"
 	},
