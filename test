@@ -13,7 +13,74 @@
         "TotalDeaths": "1",
 7
         "NewDeaths": 0,
-813011
+8130111
+[
+2
+    {
+3
+        "Country": "Afghanistan",
+4
+        "TotalCases": "40",
+5
+        "NewCases": "0",
+6
+        "TotalDeaths": "1",
+7
+        "NewDeaths": 0,
+8
+        "TotalRecovered": "1",
+9
+        "ActiveCases": "38",
+10
+        "Serious": "0",
+11
+        "Tot Cases/1M pop": "1"
+12
+    },
+13
+    {
+14
+        "Country": "Albania",
+15
+        "TotalCases": "104",
+16
+        "NewCases": "+15",
+17
+        "TotalDeaths": "4",
+18
+        "NewDeaths": 2,
+19
+        "TotalRecovered": "2",
+20
+        "ActiveCases": "98",
+21
+        "Serious": "2",
+22
+        "Tot Cases/1M pop": "36"
+23
+    },
+24
+    {
+25
+        "Country": "Algeria",
+26
+        "TotalCases": "201",
+27
+        "NewCases": "0",
+28
+        "TotalDeaths": "17",
+29
+        "NewDeaths": 0,
+30
+        "TotalRecovered": "65",
+31
+        "ActiveCases": "119",
+32
+        "Serious": "0",
+33
+        "Tot Cases/1M pop": "5"
+34
+    },
 [
 2
     {
