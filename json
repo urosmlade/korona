@@ -1970,12 +1970,12 @@
 	},
 	{
 		"Country": "Total:",
-		"TotalCases": "374,435",
-		"NewCases": "37,005",
+		"TotalCases": "374,490",
+		"NewCases": "37,060",
 		"TotalDeaths": "16,349",
 		"NewDeaths": "1,711",
 		"TotalRecovered": "101,520",
-		"ActiveCases": "256,566",
+		"ActiveCases": "256,621",
 		"Serious": "12,211",
 		"Tot Cases/1M pop": "48.0"
 	},
@@ -2058,12 +2058,12 @@
 	},
 	{
 		"Country": "USA",
-		"TotalCases": "42,379",
-		"NewCases": "+8,833",
+		"TotalCases": "42,434",
+		"NewCases": "+8,888",
 		"TotalDeaths": "517",
 		"NewDeaths": "+98",
 		"TotalRecovered": "295",
-		"ActiveCases": "41,567",
+		"ActiveCases": "41,622",
 		"Serious": "1,040",
 		"Tot Cases/1M pop": "128"
 	},
