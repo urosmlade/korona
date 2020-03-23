@@ -111,14 +111,14 @@
 	},
 	{
 		"Country": "Austria",
-		"TotalCases": "4,468",
-		"NewCases": "+886",
+		"TotalCases": "4,474",
+		"NewCases": "+892",
 		"TotalDeaths": "21",
 		"NewDeaths": "+5",
 		"TotalRecovered": "9",
-		"ActiveCases": "4,438",
+		"ActiveCases": "4,444",
 		"Serious": "14",
-		"Tot Cases/1M pop": "496"
+		"Tot Cases/1M pop": "497"
 	},
 	{
 		"Country": "Azerbaijan",
@@ -265,14 +265,14 @@
 	},
 	{
 		"Country": "Brazil",
-		"TotalCases": "1,696",
-		"NewCases": "+150",
+		"TotalCases": "1,891",
+		"NewCases": "+345",
 		"TotalDeaths": "34",
 		"NewDeaths": "+9",
 		"TotalRecovered": "2",
-		"ActiveCases": "1,660",
+		"ActiveCases": "1,855",
 		"Serious": "18",
-		"Tot Cases/1M pop": "8"
+		"Tot Cases/1M pop": "9"
 	},
 	{
 		"Country": "Brunei",
@@ -364,14 +364,14 @@
 	},
 	{
 		"Country": "Cayman Islands",
-		"TotalCases": "3",
-		"NewCases": "0",
+		"TotalCases": "5",
+		"NewCases": "+2",
 		"TotalDeaths": "1",
 		"NewDeaths": "0",
 		"TotalRecovered": "0",
-		"ActiveCases": "2",
+		"ActiveCases": "4",
 		"Serious": "0",
-		"Tot Cases/1M pop": "46"
+		"Tot Cases/1M pop": "76"
 	},
 	{
 		"Country": "Chad",
@@ -566,8 +566,8 @@
 		"NewCases": "+43",
 		"TotalDeaths": "3",
 		"NewDeaths": "0",
-		"TotalRecovered": "0",
-		"ActiveCases": "242",
+		"TotalRecovered": "3",
+		"ActiveCases": "239",
 		"Serious": "0",
 		"Tot Cases/1M pop": "23"
 	},
@@ -762,23 +762,23 @@
 		"Country": "Germany",
 		"TotalCases": "29,056",
 		"NewCases": "+4,183",
-		"TotalDeaths": "118",
-		"NewDeaths": "+24",
-		"TotalRecovered": "422",
-		"ActiveCases": "28,516",
+		"TotalDeaths": "123",
+		"NewDeaths": "+29",
+		"TotalRecovered": "453",
+		"ActiveCases": "28,480",
 		"Serious": "23",
 		"Tot Cases/1M pop": "347"
 	},
 	{
 		"Country": "Ghana",
-		"TotalCases": "24",
-		"NewCases": "+1",
+		"TotalCases": "27",
+		"NewCases": "+4",
 		"TotalDeaths": "2",
 		"NewDeaths": "+1",
 		"TotalRecovered": "0",
-		"ActiveCases": "22",
+		"ActiveCases": "25",
 		"Serious": "0",
-		"Tot Cases/1M pop": "0.8"
+		"Tot Cases/1M pop": "0.9"
 	},
 	{
 		"Country": "Gibraltar",
@@ -1730,10 +1730,10 @@
 		"Country": "Serbia",
 		"TotalCases": "249",
 		"NewCases": "+27",
-		"TotalDeaths": "2",
-		"NewDeaths": "0",
+		"TotalDeaths": "3",
+		"NewDeaths": "+1",
 		"TotalRecovered": "3",
-		"ActiveCases": "244",
+		"ActiveCases": "243",
 		"Serious": "12",
 		"Tot Cases/1M pop": "28"
 	},
@@ -1970,14 +1970,14 @@
 	},
 	{
 		"Country": "Total:",
-		"TotalCases": "374,513",
-		"NewCases": "37,083",
-		"TotalDeaths": "16,350",
-		"NewDeaths": "1,712",
-		"TotalRecovered": "101,520",
-		"ActiveCases": "256,643",
+		"TotalCases": "374,768",
+		"NewCases": "37,338",
+		"TotalDeaths": "16,356",
+		"NewDeaths": "1,718",
+		"TotalRecovered": "101,554",
+		"ActiveCases": "256,858",
 		"Serious": "12,211",
-		"Tot Cases/1M pop": "48.0"
+		"Tot Cases/1M pop": "48.1"
 	},
 	{
 		"Country": "Trinidad and Tobago",
@@ -2058,25 +2058,25 @@
 	},
 	{
 		"Country": "USA",
-		"TotalCases": "42,443",
-		"NewCases": "+8,897",
+		"TotalCases": "42,484",
+		"NewCases": "+8,938",
 		"TotalDeaths": "517",
 		"NewDeaths": "+98",
 		"TotalRecovered": "295",
-		"ActiveCases": "41,631",
+		"ActiveCases": "41,672",
 		"Serious": "1,040",
 		"Tot Cases/1M pop": "128"
 	},
 	{
 		"Country": "Uganda",
-		"TotalCases": "1",
-		"NewCases": "0",
+		"TotalCases": "9",
+		"NewCases": "+8",
 		"TotalDeaths": "0",
 		"NewDeaths": "0",
 		"TotalRecovered": "0",
-		"ActiveCases": "1",
+		"ActiveCases": "9",
 		"Serious": "0",
-		"Tot Cases/1M pop": "0.02"
+		"Tot Cases/1M pop": "0.2"
 	},
 	{
 		"Country": "Ukraine",
