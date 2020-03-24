@@ -121,14 +121,14 @@
 	},
 	{
 		"Country": "Austria",
-		"TotalCases": "5,137",
-		"NewCases": "+663",
+		"TotalCases": "5,283",
+		"NewCases": "+809",
 		"TotalDeaths": "28",
 		"NewDeaths": "+7",
 		"TotalRecovered": "9",
-		"ActiveCases": "5,100",
+		"ActiveCases": "5,246",
 		"Serious": "22",
-		"Tot Cases/1M pop": "570",
+		"Tot Cases/1M pop": "587",
 		"Tot Deaths/1M pop": 3
 	},
 	{
@@ -289,14 +289,14 @@
 	},
 	{
 		"Country": "Brazil",
-		"TotalCases": "2,018",
-		"NewCases": "+94",
+		"TotalCases": "2,100",
+		"NewCases": "+176",
 		"TotalDeaths": "34",
 		"NewDeaths": "0",
 		"TotalRecovered": "2",
-		"ActiveCases": "1,982",
+		"ActiveCases": "2,064",
 		"Serious": "18",
-		"Tot Cases/1M pop": "9",
+		"Tot Cases/1M pop": "10",
 		"Tot Deaths/1M pop": 0.2
 	},
 	{
@@ -517,14 +517,14 @@
 	},
 	{
 		"Country": "Cura�ao",
-		"TotalCases": "4",
-		"NewCases": "0",
+		"TotalCases": "6",
+		"NewCases": "+2",
 		"TotalDeaths": "1",
 		"NewDeaths": "0",
 		"TotalRecovered": "0",
-		"ActiveCases": "3",
+		"ActiveCases": "5",
 		"Serious": "0",
-		"Tot Cases/1M pop": "24",
+		"Tot Cases/1M pop": "37",
 		"Tot Deaths/1M pop": 6
 	},
 	{
@@ -1711,7 +1711,7 @@
 		"NewDeaths": "+2",
 		"TotalRecovered": "1",
 		"ActiveCases": "408",
-		"Serious": "19",
+		"Serious": "9",
 		"Tot Cases/1M pop": "13",
 		"Tot Deaths/1M pop": 0.2
 	},
@@ -2161,14 +2161,14 @@
 	},
 	{
 		"Country": "Total:",
-		"TotalCases": "416,066",
-		"NewCases": "37,284",
-		"TotalDeaths": "18,571",
-		"NewDeaths": "2,064",
+		"TotalCases": "416,817",
+		"NewCases": "38,035",
+		"TotalDeaths": "18,582",
+		"NewDeaths": "2,075",
 		"TotalRecovered": "108,300",
-		"ActiveCases": "289,195",
-		"Serious": "12,991",
-		"Tot Cases/1M pop": "53.4",
+		"ActiveCases": "289,935",
+		"Serious": "12,981",
+		"Tot Cases/1M pop": "53.5",
 		"Tot Deaths/1M pop": 2.4
 	},
 	{
@@ -2257,14 +2257,14 @@
 	},
 	{
 		"Country": "USA",
-		"TotalCases": "52,400",
-		"NewCases": "+8,666",
-		"TotalDeaths": "673",
-		"NewDeaths": "+120",
+		"TotalCases": "52,921",
+		"NewCases": "+9,187",
+		"TotalDeaths": "684",
+		"NewDeaths": "+131",
 		"TotalRecovered": "370",
-		"ActiveCases": "51,357",
+		"ActiveCases": "51,867",
 		"Serious": "1,175",
-		"Tot Cases/1M pop": "158",
+		"Tot Cases/1M pop": "160",
 		"Tot Deaths/1M pop": 2
 	},
 	{
@@ -2376,4 +2376,3 @@
 		"Tot Deaths/1M pop": 0.07
 	}
 ]
-
