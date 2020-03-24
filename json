@@ -1776,6 +1776,18 @@
 		"Tot Deaths/1M pop": 0
 	},
 	{
+		"Country": "Reunion",
+		"TotalCases": "75",
+		"NewCases": "+4",
+		"TotalDeaths": "0",
+		"NewDeaths": 0,
+		"TotalRecovered": "1",
+		"ActiveCases": "74",
+		"Serious": "0",
+		"Tot Cases/1M pop": "84",
+		"Tot Deaths/1M pop": 0
+	},
+	{
 		"Country": "Romania",
 		"TotalCases": "762",
 		"NewCases": "+186",
@@ -1809,18 +1821,6 @@
 		"ActiveCases": "36",
 		"Serious": "0",
 		"Tot Cases/1M pop": "3",
-		"Tot Deaths/1M pop": 0
-	},
-	{
-		"Country": "R�union",
-		"TotalCases": "75",
-		"NewCases": "+4",
-		"TotalDeaths": "0",
-		"NewDeaths": 0,
-		"TotalRecovered": "1",
-		"ActiveCases": "74",
-		"Serious": "0",
-		"Tot Cases/1M pop": "84",
 		"Tot Deaths/1M pop": 0
 	},
 	{
@@ -1897,14 +1897,14 @@
 	},
 	{
 		"Country": "Serbia",
-		"TotalCases": "249",
-		"NewCases": "0",
+		"TotalCases": "303",
+		"NewCases": "+54",
 		"TotalDeaths": "3",
 		"NewDeaths": 0,
 		"TotalRecovered": "3",
-		"ActiveCases": "243",
+		"ActiveCases": "297",
 		"Serious": "12",
-		"Tot Cases/1M pop": "28",
+		"Tot Cases/1M pop": "35",
 		"Tot Deaths/1M pop": 0.3
 	},
 	{
@@ -2161,12 +2161,12 @@
 	},
 	{
 		"Country": "Total:",
-		"TotalCases": "395,753",
-		"NewCases": "16,971",
+		"TotalCases": "395,807",
+		"NewCases": "17,025",
 		"TotalDeaths": "17,235",
 		"NewDeaths": 728,
 		"TotalRecovered": "103,736",
-		"ActiveCases": "274,782",
+		"ActiveCases": "274,836",
 		"Serious": "12,192",
 		"Tot Cases/1M pop": "50.8",
 		"Tot Deaths/1M pop": 2.2
