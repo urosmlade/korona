@@ -516,7 +516,7 @@
 		"Tot Deaths/1M pop": 0.09
 	},
 	{
-		"Country": "Cura�ao",
+		"Country": "Curacao",
 		"TotalCases": "6",
 		"NewCases": "+2",
 		"TotalDeaths": "1",
@@ -2161,12 +2161,12 @@
 	},
 	{
 		"Country": "Total:",
-		"TotalCases": "417,663",
-		"NewCases": "38,881",
+		"TotalCases": "417,676",
+		"NewCases": "38,894",
 		"TotalDeaths": "18,605",
 		"NewDeaths": "2,098",
 		"TotalRecovered": "108,312",
-		"ActiveCases": "290,746",
+		"ActiveCases": "290,759",
 		"Serious": "12,981",
 		"Tot Cases/1M pop": "53.6",
 		"Tot Deaths/1M pop": 2.4
@@ -2257,12 +2257,12 @@
 	},
 	{
 		"Country": "USA",
-		"TotalCases": "52,983",
-		"NewCases": "+9,249",
+		"TotalCases": "52,996",
+		"NewCases": "+9,262",
 		"TotalDeaths": "685",
 		"NewDeaths": "+132",
 		"TotalRecovered": "370",
-		"ActiveCases": "51,928",
+		"ActiveCases": "51,941",
 		"Serious": "1,175",
 		"Tot Cases/1M pop": "160",
 		"Tot Deaths/1M pop": 2
