@@ -725,8 +725,8 @@
 		"NewCases": "+4",
 		"TotalDeaths": "0",
 		"NewDeaths": "0",
-		"TotalRecovered": "23",
-		"ActiveCases": "99",
+		"TotalRecovered": "33",
+		"ActiveCases": "89",
 		"Serious": "0",
 		"Tot Cases/1M pop": "2,497",
 		"Tot Deaths/1M pop": 0
@@ -781,14 +781,14 @@
 	},
 	{
 		"Country": "French Polynesia",
-		"TotalCases": "23",
-		"NewCases": "+5",
+		"TotalCases": "25",
+		"NewCases": "+7",
 		"TotalDeaths": "0",
 		"NewDeaths": "0",
 		"TotalRecovered": "0",
-		"ActiveCases": "23",
+		"ActiveCases": "25",
 		"Serious": "0",
-		"Tot Cases/1M pop": "82",
+		"Tot Cases/1M pop": "89",
 		"Tot Deaths/1M pop": 0
 	},
 	{
@@ -2161,12 +2161,12 @@
 	},
 	{
 		"Country": "Total:",
-		"TotalCases": "417,661",
-		"NewCases": "38,879",
+		"TotalCases": "417,663",
+		"NewCases": "38,881",
 		"TotalDeaths": "18,605",
 		"NewDeaths": "2,098",
-		"TotalRecovered": "108,302",
-		"ActiveCases": "290,754",
+		"TotalRecovered": "108,312",
+		"ActiveCases": "290,746",
 		"Serious": "12,981",
 		"Tot Cases/1M pop": "53.6",
 		"Tot Deaths/1M pop": 2.4
