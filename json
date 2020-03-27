@@ -1189,12 +1189,12 @@
 	},
 	{
 		"Country": "Kazakhstan",
-		"TotalCases": "111",
-		"NewCases": "+30",
+		"TotalCases": "113",
+		"NewCases": "+32",
 		"TotalDeaths": "1",
 		"NewDeaths": "+1",
 		"TotalRecovered": "2",
-		"ActiveCases": "108",
+		"ActiveCases": "110",
 		"Serious": "0",
 		"Tot Cases/1M pop": "6",
 		"Tot Deaths/1M pop": 0.05
@@ -2209,12 +2209,12 @@
 	},
 	{
 		"Country": "Total:",
-		"TotalCases": "531,764",
-		"NewCases": "60,729",
+		"TotalCases": "531,799",
+		"NewCases": "60,764",
 		"TotalDeaths": "24,071",
 		"NewDeaths": "2,789",
 		"TotalRecovered": "123,942",
-		"ActiveCases": "383,751",
+		"ActiveCases": "383,786",
 		"Serious": "19,357",
 		"Tot Cases/1M pop": "68.2",
 		"Tot Deaths/1M pop": 3.1
@@ -2293,12 +2293,12 @@
 	},
 	{
 		"Country": "USA",
-		"TotalCases": "85,344",
-		"NewCases": "+17,133",
+		"TotalCases": "85,377",
+		"NewCases": "+17,166",
 		"TotalDeaths": "1,295",
 		"NewDeaths": "+268",
 		"TotalRecovered": "1,868",
-		"ActiveCases": "82,181",
+		"ActiveCases": "82,214",
 		"Serious": "2,122",
 		"Tot Cases/1M pop": "258",
 		"Tot Deaths/1M pop": 4
