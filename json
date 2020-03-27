@@ -89,8 +89,8 @@
 		"NewCases": "+87",
 		"TotalDeaths": "12",
 		"NewDeaths": "+4",
-		"TotalRecovered": "63",
-		"ActiveCases": "514",
+		"TotalRecovered": "72",
+		"ActiveCases": "505",
 		"Serious": "0",
 		"Tot Cases/1M pop": "13",
 		"Tot Deaths/1M pop": 0.3
@@ -2213,8 +2213,8 @@
 		"NewCases": "60,729",
 		"TotalDeaths": "24,071",
 		"NewDeaths": "2,789",
-		"TotalRecovered": "123,933",
-		"ActiveCases": "383,760",
+		"TotalRecovered": "123,942",
+		"ActiveCases": "383,751",
 		"Serious": "19,357",
 		"Tot Cases/1M pop": "68.2",
 		"Tot Deaths/1M pop": 3.1
